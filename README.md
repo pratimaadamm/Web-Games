@@ -28,18 +28,8 @@ They are simple, responsive, and beginner-friendly — perfect for practicing DO
 
 ---
 
-## 🚀 Live Demo (GitHub Pages)
-After enabling GitHub Pages, your live link will appear here:
-
-👉 **https://your-github-username.github.io/mini-web-games/**  
-(Replace with your actual link once published)
-
----
-
 ## 📁 Project Structure
 mini-web-games/
-│
-├── index.html → Homepage
 │
 ├── tic-tac-toe/
 │ ├── index.html
@@ -58,13 +48,6 @@ mini-web-games/
 - HTML5  
 - CSS3  
 - JavaScript (Vanilla JS)  
-
----
-
-## ✨ How to Run
-1. Download the repository  
-2. Open any game folder  
-3. Double-click `index.html` to play!
 
 ---
 
